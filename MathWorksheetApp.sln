@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathWorksheetApp", "MathWorksheetApp\MathWorksheetApp.csproj", "{AFE04B13-A430-47E6-A651-787AD09E82B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathWorksheetAppTests", "MathWorksheetAppTests\MathWorksheetAppTests.csproj", "{69EFCDE7-5DB1-47AD-AA18-B43C7AE0BA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE04B13-A430-47E6-A651-787AD09E82B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE04B13-A430-47E6-A651-787AD09E82B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE04B13-A430-47E6-A651-787AD09E82B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE04B13-A430-47E6-A651-787AD09E82B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69EFCDE7-5DB1-47AD-AA18-B43C7AE0BA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EFCDE7-5DB1-47AD-AA18-B43C7AE0BA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EFCDE7-5DB1-47AD-AA18-B43C7AE0BA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EFCDE7-5DB1-47AD-AA18-B43C7AE0BA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18850222-49D2-4361-BFD7-CE9D90EBC624}
+	EndGlobalSection
+EndGlobal
